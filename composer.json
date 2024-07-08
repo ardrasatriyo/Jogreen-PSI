@@ -1,0 +1,11 @@
+{
+    "name": "vendorpsi/jogreen",
+    "description": "just campus project",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "lucianotonet/groq-php": "^0.0.4",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
